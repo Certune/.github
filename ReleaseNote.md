@@ -48,7 +48,7 @@ https://github.com/Certune/Certune_Android 우측 탭에 있는 releases 선택 
    3. 노래 부르기 화면이 시작되면 노래를 부릅니다. 
    4. 결과화면에서 자신의 점수와 취약 소절을 확인합니다. 
    
-	== gif 첨부==
+    ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/88500087/173171302-45a666c0-d442-480b-8065-cfabf562b09e.gif)
 
 
    **B. 자신의 취약 소절을 연습하고 싶은 경우**
@@ -62,13 +62,16 @@ https://github.com/Certune/Certune_Android 우측 탭에 있는 releases 선택 
 
    **C. 음감과 박자 교정을 위한 연습을 하고 싶은 경우**
    
-	 **🎼음감 연습**
-	1. 세 번째 탭인 음정 교정 탭을 선택합니다. 
-	2. 음정 교정을 위한 옥타브별 표준 음정을 따라 부르고 녹음된 내용을 듣고 다시 연습합니다. 
-	==gif 첨부==
-	
-	**🥁박자 연습**
-   1. 마지막 탭인 박자 교정 탭을 선택합니다. 
-   2. 박자 교정을 하기 위한 여러가지 박자 중 하나를 선택하여 듣고 연습합니다. 
-  ==gif첨부== 
+      **🎼음감 연습**
+      1. 세 번째 탭인 음정 교정 탭을 선택합니다. 
+      2. 음정 교정을 위한 옥타브별 표준 음정을 따라 부르고 녹음된 내용을 듣고 다시 연습합니다. 
+     
+      ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/88500087/173171301-13d993fa-823a-4963-9370-127335082749.gif)
+
+		
+      **🥁박자 연습**
+      1. 마지막 탭인 박자 교정 탭을 선택합니다. 
+      2. 박자 교정을 하기 위한 여러가지 박자 중 하나를 선택하여 듣고 연습합니다. 
+     
+      ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/88500087/173171297-c11e59ed-b416-49a0-ac4e-f12457db3001.gif)
    
