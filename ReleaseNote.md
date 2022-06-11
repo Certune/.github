@@ -26,6 +26,9 @@
   
 ## 📃 APK 다운로드 방법
 https://github.com/Certune/Certune_Android 우측 탭에 있는 releases 선택 후 APK 다운로드 진행
+테스트계정 : certune@ewhain.net
+비밀번호 : 123456
+
 
 ## 🎵 사용법
 1. 회원가입 후 음역대 측정을 위한 고음 및 저음 음정 테스트를 진행합니다.
